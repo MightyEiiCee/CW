@@ -103,7 +103,7 @@ section{
 }
 
 .header .logo img{
-    height: 3rem;
+    height: 2rem;
 }
 
 .header .navbar ul a{
@@ -583,7 +583,7 @@ section{
     padding-bottom: .5rem;
 }
 
-@media screen and (max-width:1920px){
+@media (max-width:1920px){
 
     
     .home .content img {
@@ -606,7 +606,7 @@ section{
 }
 }
 /* media queries  */
-@media screen and (max-width:991px){
+@media (max-width:991px){
 
     html{
         font-size: 55%;
@@ -629,7 +629,7 @@ section{
 
 }
 
-@media screen and (max-width:768px){
+@media (max-width:768px){
 
     #menu-btn{
         display: inline-block;
@@ -685,7 +685,7 @@ section{
 }
     
 
-@media screen and (max-width:450px){
+@media (max-width:450px){
 
     html{
         font-size: 40%;
