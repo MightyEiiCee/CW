@@ -688,7 +688,7 @@ section{
 @media screen and (max-width:450px){
 
     html{
-        font-size: 50%;
+        font-size: 40%;
     }
     .home .content img{
         top: 0;
